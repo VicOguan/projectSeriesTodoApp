@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/projectSeriesTodoApp/static/css/main.69a3815f.css",
+    "main.js": "/projectSeriesTodoApp/static/js/main.bea78f15.js",
+    "static/media/Logo No BG.png": "/projectSeriesTodoApp/static/media/Logo No BG.b4a553d6185e7de15f42.png",
+    "index.html": "/projectSeriesTodoApp/index.html",
+    "main.69a3815f.css.map": "/projectSeriesTodoApp/static/css/main.69a3815f.css.map",
+    "main.bea78f15.js.map": "/projectSeriesTodoApp/static/js/main.bea78f15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a3815f.css",
+    "static/js/main.bea78f15.js"
+  ]
+}
